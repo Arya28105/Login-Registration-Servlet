@@ -1,0 +1,4 @@
+db.properties
+build/
+target/
+*.class
